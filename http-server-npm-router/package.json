@@ -1,0 +1,15 @@
+{
+  "name": "http-server-npm-router",
+  "version": "0.0.0",
+  "description": "A Test from npm simple router",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-simple-router": "^0.9.2-8"
+  }
+}
